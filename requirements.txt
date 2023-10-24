@@ -1,0 +1,2 @@
+ipyvolume==0.6.3
+astropy==5.1
